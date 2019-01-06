@@ -21,7 +21,6 @@ namespace DatabaseConnection
                     ApplicationIntent = ApplicationIntent.ReadWrite,
                     MultiSubnetFailover = false
                 };
-                // update me
 
                 // Connect to SQL
                 Console.Write("Connecting to SQL Server ...");
